@@ -18,8 +18,6 @@ Vim das Artes e hoje estou focado em Desenvolvimento Web e Sistemas — curioso,
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" width="35px" style="padding-right:10px;" title="Bootstrap"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" width="35px" style="padding-right:10px;" title="Laravel"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 <img align="left" width="35px" style="padding-right:10px;" title="PostgreSQL"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" width="35px" style="padding-right:10px;" title="Python"
